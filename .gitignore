@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Large / private / drafts (keep out of public repo)
+paper/*.pdf
+paper/private/
+data/
+outputs/
+*.zip
