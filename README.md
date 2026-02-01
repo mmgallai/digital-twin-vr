@@ -39,4 +39,4 @@ If/when a public version is available (publisher link or arXiv), this section wi
 
 ## Contact
 Mohamed Gallai
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK-HERE
+- LinkedIn: https://www.linkedin.com/in/mohamed-gallai/
